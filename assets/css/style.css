@@ -24,3 +24,19 @@ body {
 h1, .description{
     color: antiquewhite!important;
 }
+
+.card-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+    flex-wrap: wrap;
+}
+
+.card {
+    margin: 0px 50px;
+}
+
+.card-descrip {
+    text-align: center;
+}
