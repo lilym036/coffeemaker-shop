@@ -6,3 +6,21 @@ body {
     background-color: #8E6A6B;
 }
 
+.hero {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(../images/pour.jpg);
+    height: 50%;
+    background-size: cover;
+    position: relative;
+    background-position: center;
+  background-repeat: no-repeat;
+
+}
+
+.hero-content {
+    background-color: #734D4D;
+    padding: 10px;
+}
+
+h1, .description{
+    color: antiquewhite!important;
+}
